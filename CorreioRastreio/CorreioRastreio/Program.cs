@@ -6,7 +6,12 @@ namespace CorreioRastreio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Rastrear Encomenda");
+
+            var cliente = new Rastreio.ServiceClient();
+            cliente.
+
+            Console.ReadLine();
         }
     }
 }

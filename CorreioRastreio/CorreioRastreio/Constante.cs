@@ -6,7 +6,7 @@ namespace CorreioRastreio
 {
     class Constante
     {
-
+        public const string Lista = "L";
         public const string Todos = "T";
         public const string Ultimo = "U";
         public const string Primeiro = "P";
